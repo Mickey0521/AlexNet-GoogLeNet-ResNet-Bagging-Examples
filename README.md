@@ -5,11 +5,11 @@
 3. ResNet.py: the independent source code of ResNet 
 4. VGG.py:  the independent source code of VGG 
 
-5. ''real_project_gender_recognition_AlexNet_GoogLeNet_ResNet_demo.ipynb:''
+5. ''real_project_gender_recognition_AlexNet_GoogLeNet_ResNet_demo.ipynb'':
 a real project to demo how to use AlexNet, GoogLeNet, and ResNet in gender recognition 
 (demo how to use AlexNet.py, GoogLeNet.py, ResNet.py, and VGG.py)
 
-6. ''real_project_use_pre_trained_models_Bagging_demo.ipynb:''
+6. ''real_project_use_pre_trained_models_Bagging_demo.ipynb'':
 a real project to demo how to use Bagging (with pre-trained AlexNet, GoogLeNet, and ResNet) in gender recognition 
 
 Please note that:
