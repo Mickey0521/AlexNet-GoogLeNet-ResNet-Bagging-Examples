@@ -1,9 +1,9 @@
 # AlexNet-GoogLeNet-ResNet-Bagging-Examples
 
-1. AlexNet.py: the independent source code of AlexNet 
-2. GoogLeNet.py: the independent source code of GoogLeNet 
-3. ResNet.py: the independent source code of ResNet 
-4. VGG.py:  the independent source code of VGG 
+1. ''AlexNet.py'': the independent source code of AlexNet 
+2. ''GoogLeNet.py'': the independent source code of GoogLeNet 
+3. ''ResNet.py'': the independent source code of ResNet 
+4. ''VGG.py'':  the independent source code of VGG 
 
 5. ''real_project_gender_recognition_AlexNet_GoogLeNet_ResNet_demo.ipynb'':
 a real project to demo how to use AlexNet, GoogLeNet, and ResNet in gender recognition 
