@@ -2,7 +2,7 @@
 Some useful examples of AlexNet, GoogLeNet, ResNet, VGG, and Bagging are given as follows:
 
 Example 1
-- [AlexNet](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/AlexNet.pyy)
+- [AlexNet](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/AlexNet.py)
 
 Example 2
 - [GoogLeNet](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/GoogLeNet.py)
