@@ -22,6 +22,6 @@ Example 6
 
 Please note that:
 
-i. we did not provide the dataset, but you can use any data (i.e., any pictures), to run our demo.ipynb. 
+i. we did not provide the dataset, but you can use any data (i.e., any pictures), to run our source codes (e.g., the real project). 
 
 ii. we did not provide the pre-trained models (because they are way too big), but you can use our source code to train AlexNet, GoogLeNet, and ResNet. 
