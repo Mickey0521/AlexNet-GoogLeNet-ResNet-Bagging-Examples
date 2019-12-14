@@ -1,16 +1,24 @@
 # AlexNet-GoogLeNet-ResNet-Bagging-Examples
+Some useful examples of AlexNet, GoogLeNet, ResNet, VGG, and Bagging are given as follows:
 
-1. ''AlexNet.py'': the independent source code of AlexNet 
-2. ''GoogLeNet.py'': the independent source code of GoogLeNet 
-3. ''ResNet.py'': the independent source code of ResNet 
-4. ''VGG.py'':  the independent source code of VGG 
+Example 1
+- [AlexNet](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/AlexNet.pyy)
 
-5. ''real_project_gender_recognition_AlexNet_GoogLeNet_ResNet_demo.ipynb'':
-a real project to demo how to use AlexNet, GoogLeNet, and ResNet in gender recognition 
-(demo how to use AlexNet.py, GoogLeNet.py, ResNet.py, and VGG.py)
+Example 2
+- [GoogLeNet](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/GoogLeNet.py)
+  
+Example 3
+- [ResNet](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/ResNet.py)
+  
+Example 4
+- [VGG](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/VGG.py)
 
-6. ''real_project_use_pre_trained_models_Bagging_demo.ipynb'':
-a real project to demo how to use Bagging (with pre-trained AlexNet, GoogLeNet, and ResNet) in gender recognition 
+Example 5
+- [real_project_gender_recognition_AlexNet_GoogLeNet_ResNet_demo](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/real_project_gender_recognition_AlexNet_GoogLeNet_ResNet_demo.ipynb)
+
+Example 6
+- [real_project_use_pre_trained_models_Bagging_demo](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/real_project_use_pre_trained_models_Bagging_demo.ipynb)
+
 
 Please note that:
 
