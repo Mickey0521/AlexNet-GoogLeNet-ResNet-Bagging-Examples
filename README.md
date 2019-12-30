@@ -14,10 +14,10 @@ Example 4
 - [VGG](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/VGG.py)
 
 Example 5
-- [AlexNet_GoogLeNet_ResNet_demo](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/real_project_gender_recognition_AlexNet_GoogLeNet_ResNet_demo.ipynb)
+- [AlexNet_GoogLeNet_ResNet_demo](https://github.com/Mickey0521/Examples-of-AlexNet-GoogLeNet-ResNet-and-Bagging/blob/master/AlexNet_GoogLeNet_ResNet_demo_gender_recognition.ipynb)
 
 Example 6
-- [Bagging_demo](https://github.com/Mickey0521/AlexNet-GoogLeNet-ResNet-Bagging-Examples/blob/master/real_project_use_pre_trained_models_Bagging_demo.ipynb)
+- [Bagging_demo](https://github.com/Mickey0521/Examples-of-AlexNet-GoogLeNet-ResNet-and-Bagging/blob/master/Bagging_demo_using_pre_trained_models.ipynb)
 
 
 Please note that:
